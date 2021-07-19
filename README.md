@@ -1,5 +1,7 @@
 # InfraRed-Handed
 
+![](https://raw.githubusercontent.com/TristanSmeets/InfraRed-Handed/master/Images/portrait.jpg)
+
 ### Gameplay Video
 [Youtube](https://youtu.be/OkAf1uGwUww)
 
