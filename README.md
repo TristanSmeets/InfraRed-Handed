@@ -32,6 +32,8 @@ Besides the programming I was also responsible for the gameplay design and the o
 **Duration:**
 8.5 weeks
 
+**Date:** 03-07-2019
+
 **Engine:**
 Unity
 
