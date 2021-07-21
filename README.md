@@ -53,7 +53,7 @@ Unity
 
 [2]: https://www.artstation.com/eriminati
 [3]: https://www.artstation.com/milva
-[4]: https://www.artstation.com/selimahei
+[4]: https://www.selimaheister.com/
 [5]: https://www.saxion.edu/programmes/bachelor/creative-media-and-game-technologies
 [6]: https://www.oyfo.nl/
 [7]: https://brocknoeyes99.tumblr.com/page/2
